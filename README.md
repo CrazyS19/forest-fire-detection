@@ -71,7 +71,5 @@ A new categorical target `fire_scale` was created:
 - **Environment**: Jupyter Notebook / VS Code
 - **Deployment-ready for**: Streamlit, Flask, or edge devices
 
----
 
-## 📁 Folder Structure
 
